@@ -17,6 +17,6 @@ var checkdead = setInterval(function(){
         if(obsLeft<20 && obsLeft>0 && characterTop>=130){
         obs.style.animation="none";
         obs.style.display="none";
-        alert("Game Over")
+        alert("Game Over || Refresh Halaman Untuk Bermain Kembali")
        }
 },20)
