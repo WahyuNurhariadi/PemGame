@@ -24,7 +24,7 @@
     position: relative;
     top: 130px;
     left: 800px;
-    animation: obs 1600ms infinite linear;
+    animation: obs 1600ms infinite linear 3s;
     } 
 @keyframes obs{
     0% {left: 800px;}
